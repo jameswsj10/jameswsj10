@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">A passionate developer from California </h3>
+<h3 align="center">A software developer interested in distributed systems and communication technology </h3>
 
 - 🔭 I’m currently working on **Google Meet/Duo, Apache Beam**
 
