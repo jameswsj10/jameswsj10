@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A software developer interested in distributed systems and communication technology </h3>
 
-- 🔭 I’m currently working on **Google Meet/Duo, Apache Beam**
+- 🔭 I’m currently working on **Google Distributed Cloud, Google Meet/Duo**
 
-- 📫 How to reach me **applelight007@gmail.com**
+- 📫 How to reach me **jameswsj18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
